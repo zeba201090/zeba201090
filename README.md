@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeba201090
-- 👀 I’m interested in c++,python,AI
-- 🌱 I’m currently learning data structures and machine learning
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
