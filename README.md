@@ -12,11 +12,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/musarrat-zeba/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(63%) sepia(68%) saturate(2877%) hue-rotate(268deg) brightness(90%) contrast(90%);"/></a>
+  <a href="https://www.linkedin.com/in/musarrat-zeba/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(56%) sepia(34%) saturate(2815%) hue-rotate(251deg) brightness(92%) contrast(89%);"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/MusarratZeba"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(63%) sepia(68%) saturate(2877%) hue-rotate(268deg) brightness(90%) contrast(90%);"/></a>
+  <a href="https://twitter.com/MusarratZeba"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(56%) sepia(34%) saturate(2815%) hue-rotate(251deg) brightness(92%) contrast(89%);"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://musarratzeba.vercel.app/"><img width="32px" alt="Dev.to" title="MusarratZeba" src="https://i.imgur.com/mVm29vK.png" style="filter: invert(63%) sepia(68%) saturate(2877%) hue-rotate(268deg) brightness(90%) contrast(90%);"></a>
+  <a href="https://musarratzeba.vercel.app/"><img width="32px" alt="Dev.to" title="MusarratZeba" src="https://i.imgur.com/mVm29vK.png" style="filter: invert(56%) sepia(34%) saturate(2815%) hue-rotate(251deg) brightness(92%) contrast(89%);"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
