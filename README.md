@@ -61,8 +61,8 @@
     <a href="#"><img alt="EJS" src="https://img.shields.io/badge/EJS-2B5D80.svg?logo=ejs&logoColor=white"></a>
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE.svg?logo=insomnia&logoColor=white"></a>
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
-    <a href="#"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white"></a>
-    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/Strapi-2F2E2E.svg?logo=strapi&logoColor=white"></a>
+<!--     <a href="#"><img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white"></a>
+    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/Strapi-2F2E2E.svg?logo=strapi&logoColor=white"></a> -->
 </p>
 <br/>
 
