@@ -68,3 +68,21 @@
 
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeba201090&show_icons=true&count_private=true&hide=prs)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeba201090&theme=dark)
+
+## 🏆 Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zeba201090)
+
+## 💻 Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeba201090)
+
+## 📈 Wakatime Stats
+![Wakatime](https://wakatime.com/badge/user/zeba201090.svg)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/musarrat-zeba-42ab52251/)
+- [Twitter](https://twitter.com/zeba201090)
