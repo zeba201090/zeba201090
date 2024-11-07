@@ -69,6 +69,8 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeba201090&show_icons=true&count_private=true&hide=prs&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zeba201090&bg_color=0d1117&color=ffffff&line=00d9ff&point=ffffff&area=true&hide_border=true)
+
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeba201090&theme=dark&layout=compact)
